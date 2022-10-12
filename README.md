@@ -31,10 +31,10 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 
 ## Technologies Used
-- Anaconda Navigator
+- Anaconda Navigator - 22.9.0
 - pandas - 1.3.5
-- Jupyter Notebook - 
-- Python - 3.9
+- Jupyter Notebook - 6.4.12
+- Python - 3.8.12
 - Matplotlib - 3.5.0
 - Numpy 1.21.2
 - Seaborn 0.11.2
@@ -49,7 +49,7 @@ Give credit here.
 - https://www.google.com/search?client=firefox-b-d&q=summer+and+fall+in+US
 - https://pandas.pydata.org/
 - https://scikit-learn.org/stable/
-- All the resoruces referred are given in the notebook itself if any resoruce is missed
+- Credits are given where credit is due if any is missed you can find the same in the notebook
 
 
 ## Contact
