@@ -25,7 +25,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - In an ideal situation where Boom Bikes dont do anything they can still see an increase of unit  0.299477 which is great for the company, so they can expect growth despite little investment, the reason for this trend could be that people are trying to reduce their carbon footprint and were encouraged to rather cycle; but there are sevral other factors as well like having fun, riding bikes to school, mountain biking wheere in most cases people tend to rent theri bikes because it porves to be cheapre to them cause they dont have to incur transport charges along with other miscellaneous charges with comes along you can refer the article below which goes along with our timeline: https://www.forbes.com/sites/timnewcomb/2020/07/13/amidst-cycling-surge-sport-of-mountain-biking-seeing-increased-sales-trail-usage/?sh=2c8fcbae3ddf
 
 
--  Boom bikes should expand their businesses in the month of September  showes the highest level of bikes rented
+-  Boom bikes should expand their businesses in the month of September  as it shows the highest level of bikes rented
 
 - Boom Bike should also see that they hand out lucrative offers when the weather conditions are Ideal and temperatures slightly on the higher end cause according to the data and model this will yield maximum rental bookings, the model also concludes that  BoomBikes should also focus more offers and equipments during winters as it may help drive the rental up in those months.
 
